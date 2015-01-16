@@ -1,10 +1,10 @@
 <?php
 /**
- * Plugin Name: WP Podcast
- * Plugin URI: http://github.com/automattic/wp-podcast/
+ * Plugin Name: Beacon
+ * Plugin URI: http://github.com/ryanmarkel/beacon/
  * Description: Very simple podcasting for WordPress.
  * Version: 0.1
- * Author: Automattic
+ * Author: Ryan Markel
  * Author URI: http://ryanmarkel.com/
  * License: GPL2
  */
