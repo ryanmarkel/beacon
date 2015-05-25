@@ -1,0 +1,10 @@
+{
+    "name"       : "ryanmarkel/beacon",
+    "description": "Simple podcasting for WordPress.",
+    "homepage"   : "http://ryanmarkel.com/plugins/beacon/",
+    "type"       : "wordpress-plugin",
+    "license"    : "GPL-2.0+",
+    "require"    : {
+        "composer/installers": "~1.0"
+    }
+}
